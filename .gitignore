@@ -1,8 +1,11 @@
-__pycache__/
 *.pyc
 *.pyo
-.env
-.venv/
-venv/
-budget.json
 *.tmp
+.env
+.env.*
+.venv/
+__pycache__/
+budget.json
+dist/*.tmp
+node_modules/
+venv/
